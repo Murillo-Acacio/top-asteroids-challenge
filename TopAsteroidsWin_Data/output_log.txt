@@ -1,0 +1,32 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.319 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\home\murillinho\Documentos\projetos\top-asteroids-challenge\TopAsteroidsWin_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 39.791401 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 770.
+Total: 1.814900 ms (FindLiveObjects: 0.037300 ms CreateObjectMapping: 0.032900 ms MarkObjects: 0.975700 ms  DeleteObjects: 0.013900 ms)
+
+UnloadTime: 1.559400 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 770.
+Total: 1.344500 ms (FindLiveObjects: 0.043600 ms CreateObjectMapping: 0.020400 ms MarkObjects: 0.707300 ms  DeleteObjects: 0.013600 ms)
+

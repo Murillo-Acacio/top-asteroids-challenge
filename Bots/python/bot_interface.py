@@ -138,6 +138,7 @@ class GameState(object):
     def __exec(self, message):
 
         tokens = message.strip().split(" ")
+        tokens = [token.replace(',', '.') for token in tokens]
 
         if tokens[0] == "ship":
             self.__get_ship(int(tokens[1])).update(posx=float(tokens[2]), posy=float(tokens[3]), velx=float(tokens[4]), vely=float(tokens[5]), radius=float(tokens[6]), ang=float(tokens[7]), velang=float(tokens[8]), charge=float(tokens[9]), score=int(tokens[10]))

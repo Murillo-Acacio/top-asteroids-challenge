@@ -1,0 +1,11 @@
+[ Stupid Python ] Bot Loaded
+
+[ Stupid Python ] Traceback (most recent call last):
+  File "./Bots/python/stupid_bot.py", line 17, in <module>
+    GameState(StupidBot()).connect()
+  File "/home/murillinho/Documentos/projetos/top-asteroids-challenge/Bots/python/bot_interface.py", line 115, in connect
+    self.__exec(message)
+  File "/home/murillinho/Documentos/projetos/top-asteroids-challenge/Bots/python/bot_interface.py", line 163, in __exec
+    self.timestep = float(tokens[1])
+ValueError: could not convert string to float: '0,05'
+

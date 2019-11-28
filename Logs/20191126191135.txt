@@ -1,0 +1,8 @@
+[ Stupid Python ] Traceback (most recent call last):
+  File "./Bots/python/stupid_bot.py", line 1, in <module>
+    from bot_interface import *
+  File "/home/murillinho/Documentos/projetos/top-asteroids-challenge/Bots/python/bot_interface.py", line 142
+    tokens = tokens.replace(',', '.')
+                                    ^
+TabError: inconsistent use of tabs and spaces in indentation
+
